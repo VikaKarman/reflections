@@ -1,0 +1,14 @@
+>>>>What happens when you initialize a repository? 
+Why do you need to do it?
+
+file .git gets created. We need to do this to make a repository methadata 
+to be created to store commits history
+
+>>>> How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+It is an intermediate level between repository and working directory
+It allows to include more than one file into a commit. This group of files
+will correspond to one logical unit of functionality and you may 
+add one commit message explaining the purpose of this commit.
+
